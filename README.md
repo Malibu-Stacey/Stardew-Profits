@@ -29,4 +29,5 @@ Level 10 skills | Specific skills available once the player reaches level 10 in 
 Show extra info | Selecting this will show additional detailed info about every crop on the tooltip.
 
 # Contact
-You may contact me on the following locations: [Twitter](https://twitter.com/thorinair_music) | [Reddit](https://www.reddit.com/user/Thorinair/) | [YouTube](https://www.youtube.com/user/Thorinair) | [deviantArt](http://thorinair.deviantart.com/)
+You may contact me on the following locations: [Reddit](https://www.reddit.com/user/Malibu-Stacey/) | [Steam](https://steamcommunity.com/id/malibustacey)
+This project was originally created by [Thorinair](https://twitter.com/thorinair_music).

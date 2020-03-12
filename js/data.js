@@ -248,7 +248,8 @@ var seasons = [
 			crops.parsnip,
 			crops.bluejazz,
 			crops.tulip,
-			crops.ancientfruit
+			crops.ancientfruit,
+			crops.unmilledrice
 		]
 	},
 	{
@@ -332,7 +333,9 @@ var seasons = [
 			crops.fairyrose,
 			crops.bokchoy,
 			crops.sunflower,
-			crops.ancientfruit
+			crops.ancientfruit,
+			crops.unmilledrice,
+			crops.cactusfruit
 		]
 	}
 ];

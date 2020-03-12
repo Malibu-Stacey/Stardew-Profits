@@ -4,6 +4,33 @@
 
 // Crop List
 var crops = {
+  "unmilledrice": {
+    "name": "Unmilled Rice",
+    "url": "http://stardewvalleywiki.com/Unmilled_Rice",
+    "img": "unmilledrice.png",
+    "seeds": {
+      "pierre": 40,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "rawN": 30,
+      "rawS": 37,
+      "rawG": 45,
+      "jar": 110,
+      "keg": 67,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
   "amaranth": {
     "name": "Amaranth",
     "url": "http://stardewvalleywiki.com/Amaranth",
@@ -47,7 +74,7 @@ var crops = {
       "regrow": 3
     },
     "produce": {
-      "extra": 1,
+      "extra": 0,
       "extraPerc": 0,
       "rawN": 80,
       "rawS": 100,
@@ -74,7 +101,7 @@ var crops = {
       "regrow": 1
     },
     "produce": {
-      "extra": 1,
+      "extra": 0,
       "extraPerc": 0,
       "rawN": 25,
       "rawS": 31,
@@ -344,7 +371,7 @@ var crops = {
       "regrow": 3
     },
     "produce": {
-      "extra": 1,
+      "extra": 0,
       "extraPerc": 0,
       "rawN": 40,
       "rawS": 50,
@@ -722,7 +749,7 @@ var crops = {
       "regrow": 4
     },
     "produce": {
-      "extra": 1,
+      "extra": 0,
       "extraPerc": 0,
       "rawN": 50,
       "rawS": 62,
@@ -972,6 +999,33 @@ var crops = {
       "rawG": 180,
       "jar": 290,
       "keg": 360,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
+  "cactusfruit": {
+    "name": "Cactus Fruit",
+    "url": "http://stardewvalleywiki.com/Cactus_Fruit",
+    "img": "cactusfruit.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 150,
+      "specialLoc": "Oasis",
+      "specialUrl": "http://stardewvalleywiki.com/Oasis"
+    },
+    "growth": {
+      "initial": 12,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0,
+      "rawN": 75,
+      "rawS": 93,
+      "rawG": 112,
+      "jar": 200,
+      "keg": 225,
       "jarType": "Jelly",
       "kegType": "Wine"
     }
